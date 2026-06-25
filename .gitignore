@@ -1,0 +1,12 @@
+# Arquivos internos / não publicar
+github.txt
+informações.txt
+*.zip
+
+# Pastas de teste / duplicadas
+teste/
+
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
