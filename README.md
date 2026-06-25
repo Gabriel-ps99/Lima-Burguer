@@ -1,10 +1,18 @@
 # Lima Burguer
 
-Site institucional da hamburgueria **Lima Burguer** — uma landing page estática e responsiva.
+Landing page estática e responsiva da **Lima Burguer** para o e-book *"Como Fazer Hambúrguer Igual Hamburgueria"*.
+
+## 📸 Preview
+
+### Desktop
+![Página completa - desktop](screenshots/desktop-full.png)
+
+### Mobile
+![Página completa - mobile](screenshots/mobile-full.png)
 
 ## 🍔 Sobre
 
-Página única (HTML + CSS) apresentando a marca, cardápio e contato da Lima Burguer.
+Página única (HTML + CSS) com seções de destaque, diferenciais, conteúdo do e-book e chamada para compra.
 
 ## 📁 Estrutura
 
@@ -30,4 +38,4 @@ python -m http.server 8000
 
 ---
 
-© 2025 Lima Burguer
+© 2026 Lima Burguer
